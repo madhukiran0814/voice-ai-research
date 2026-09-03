@@ -1,4 +1,4 @@
-# audEERING Voice AI Research
+# Voice AI Research
 
 Research notes comparing audEERING's commercial Voice AI stack, open-source tooling, and alternative approaches for **age**, **gender**, and **emotion** recognition from speech.
 
